@@ -37,7 +37,7 @@ APIs in the project.
 ## Versions
 Please CheckOut the updated versions for this project
 ### Previous Versions:
-- [SpringBoot_MongoDB](https://github.com/vardhmanhundia/ServerIndexing_springBot)
-- [Server Index Swagg UI](https://github.com/vardhmanhundia/Server_SwaggUi)
+- [SpringBoot_MongoDB](https://github.com/vardhmanhundia/SpringBootMongodb_serverIndexing)
+- [Server Index Swagg UI](https://github.com/vardhmanhundia/SwaggUI_ServerIndexing)
 ### Futher Versions:
-- [Server_Index React App](https://github.com/vardhmanhundia/ServerIndexing_ReactApp)
+- [Server_Index React App](https://github.com/vardhmanhundia/serverIndex_ReactApplication)
