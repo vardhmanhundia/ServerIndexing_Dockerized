@@ -1,0 +1,17 @@
+mongo:
+  image: mongo
+  restart: always
+  volumes:
+    - database:/data/db
+  environment:
+    - MONGO_INITDB_DATABASE=ServerDB #database name of mongoDB
+  ports:
+    - 27017:27017
+
+app:
+  build: .
+  dockerfile: Docker/Dockerfile
+  ports:
+    - 9090:8080
+  links:
+    - mongo
