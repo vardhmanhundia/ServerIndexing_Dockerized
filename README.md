@@ -31,7 +31,7 @@ to the docker account if account dosen't exists.
 6. You can check the rest Apis corresponding to the server with the new Swagg UI documentation which provides a clear idea about all the
 APIs in the project.
 
-![ServerRunning](../media/dockerWorking.gif?raw=true)
+![ServerRunning](https://github.com/vardhmanhundia/ServerIndexing_Dockerized/blob/master/images/dockerWorking.gif)
 
 
 ## Versions
